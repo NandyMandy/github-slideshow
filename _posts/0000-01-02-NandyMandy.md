@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-NandyCandy
+NandyCa
 Use the left arrow to go back!
